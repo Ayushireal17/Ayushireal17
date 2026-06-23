@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushireal17](https://github.com/Ayushireal17)
 
-- 📝 I regularly write articles on [Currently not writing articles](Currently not writing articles)
-
 - 💬 Ask me about **Laravel, PHP, React, Node.js, MySQL, Python, HTML, CSS, Bootstrap, and Git**
 
 - 📫 How to reach me **ayushichowdhury72@gmail.com**
