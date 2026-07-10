@@ -3,6 +3,9 @@
 <h3 align="center">
 🚀 Full-Stack Developer | Laravel • React • Node.js • PHP • MySQL | Building AI-Powered Web Applications
 </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Ayushi+Chowdhury;🚀+Full-Stack+Developer;🌉+Building+Talent+Bridge;🤖+Exploring+AI+%26+Laravel;⚛️+React+%7C+Laravel+%7C+Node.js;💜+Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
+</p>
 
 <p align="center">
 I'm an MCA graduate passionate about building real-world web applications that solve practical problems. I enjoy developing scalable full-stack applications using Laravel, React, Node.js, PHP, and MySQL while continuously exploring AI-powered solutions.
@@ -162,11 +165,6 @@ React
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushireal17&theme=tokyonight&margin-w=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 # 📚 Currently Learning
 
@@ -186,7 +184,6 @@ React
 - 🌟 Contribute to Open Source
 - 🤖 Build AI-powered Web Applications
 - 📱 Learn Cloud Deployment & DevOps
-- 💼 Grow Talent Bridge into a production-ready platform
 
 ---
 
