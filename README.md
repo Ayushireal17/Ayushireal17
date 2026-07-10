@@ -4,22 +4,19 @@
 🚀 Full-Stack Developer | Laravel • React • Node.js • PHP • MySQL | Building AI-Powered Web Applications
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Ayushi+Chowdhury;🚀+Full-Stack+Developer;🌉+Building+Talent+Bridge;🤖+Exploring+AI+%26+Laravel;⚛️+React+%7C+Laravel+%7C+Node.js;💜+Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Ayushi+Chowdhury;🚀+Full-Stack+Developer;🤖+Exploring+AI+%26+Laravel;⚛️+React+%7C+Laravel+%7C+Node.js;💜+Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
 I'm an MCA graduate passionate about building real-world web applications that solve practical problems. I enjoy developing scalable full-stack applications using Laravel, React, Node.js, PHP, and MySQL while continuously exploring AI-powered solutions.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayushireal17&label=Profile%20Views&color=0e75b6&style=flat" alt="Ayushireal17" />
-</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building **Talent Bridge – AI-Powered Recruitment Platform**
+- 🔭 Currently building **Talent Bridge  AI-Powered Recruitment Platform**
 - 🌱 Currently learning **Advanced Laravel, REST APIs, React, Node.js, Computer Vision, and AI Integration**
 - 👯 Looking to collaborate on **Laravel, React, Node.js, and Open Source Projects**
 - 🤝 Looking for help with **System Design, Scalable Applications, and Advanced Backend Development**
