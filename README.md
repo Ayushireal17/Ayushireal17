@@ -81,60 +81,41 @@ I'm an MCA graduate passionate about building real-world web applications that s
 
 # 🚀 Featured Projects
 
-## 🌉 Talent Bridge
+<p align="center">
 
-### AI-Powered Recruitment Platform
+<a href="https://github.com/Ayushireal17/TalentBridge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=TalentBridge&theme=tokyonight" />
+</a>
 
-Talent Bridge is a modern AI-powered recruitment platform that helps connect recruiters and job seekers through intelligent automation.
+<a href="https://github.com/Ayushireal17/admindashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=admindashboard&theme=tokyonight" />
+</a>
 
-### ✨ Features
+</p>
 
-- 🤖 AI Resume Analysis
-- 🎯 AI Job Matching
-- 📝 AI Cover Letter Generator
-- 💬 AI Interview Preparation
-- 📄 Resume Builder
-- 👩‍💼 Recruiter Dashboard
-- 👨‍💻 Candidate Dashboard
-- 📊 Application Tracking
-- 🔍 Advanced Job Search
-- ❤️ Saved Jobs
-- 🔐 JWT Authentication
-- 📱 Responsive UI
+<p align="center">
 
-**Tech Stack**
+<a href="https://github.com/Ayushireal17/ayushi-ai-chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=ayushi-ai-chatbot&theme=tokyonight" />
+</a>
 
-Laravel • React • PHP • MySQL • Tailwind CSS • REST API • Axios
+<a href="https://github.com/Ayushireal17/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=portfolio&theme=tokyonight" />
+</a>
 
----
+</p>
 
-## ❤️ RED-PROUD
+<p align="center">
 
-Blood Donation Management System that connects blood donors with recipients efficiently.
+<a href="https://github.com/Ayushireal17/smartnest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=smartnest&theme=tokyonight" />
+</a>
 
-**Tech Stack**
+<a href="https://github.com/Ayushireal17/RED-PROUD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=RED-PROUD&theme=tokyonight" />
+</a>
 
-PHP • MySQL • Bootstrap
-
----
-
-## 💰 SmartNest
-
-Personal Finance Management Dashboard with expense tracking and analytics.
-
-**Tech Stack**
-
-React • Chart.js
-
----
-
-## ⏱ Focusly
-
-Pomodoro productivity application designed to improve focus and time management.
-
-**Tech Stack**
-
-React
+</p>
 
 ---
 
