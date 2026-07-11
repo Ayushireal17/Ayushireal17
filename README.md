@@ -44,7 +44,7 @@ I'm a passionate developer focused on building scalable full-stack applications 
 
 ### Languages & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css,sass,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend & Databases
@@ -61,41 +61,24 @@ I'm a passionate developer focused on building scalable full-stack applications 
 
 ## 🚀 Featured Projects
 
-<p align="center">
-<a href="https://github.com/Ayushireal17/TalentBridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=TalentBridge&theme=tokyonight" />
-</a>
-<a href="https://github.com/Ayushireal17/admindashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=admindashboard&theme=tokyonight" />
-</a>
-</p>
+Here are some of the applications I've deployed:
 
-<p align="center">
-<a href="https://github.com/Ayushireal17/ayushi-ai-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=ayushi-ai-chatbot&theme=tokyonight" />
-</a>
-<a href="https://github.com/Ayushireal17/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=portfolio&theme=tokyonight" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Ayushireal17/smartnest">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=smartnest&theme=tokyonight" />
-</a>
-<a href="https://github.com/Ayushireal17/RED-PROUD">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=RED-PROUD&theme=tokyonight" />
-</a>
-</p>
+*   **[TalentBridge](https://github.com/Ayushireal17/TalentBridge)** - An AI-powered recruitment platform designed to optimize talent acquisition workflows.
+    *   *Tech Stack:* `JavaScript` • `Laravel` • `React` • `Node.js`
+*   **[admindashboard](https://github.com/Ayushireal17/admindashboard)** - A highly responsive data-management portal built to streamline administrative workflows.
+    *   *Tech Stack:* `HTML` • `CSS` • `Bootstrap` • `JavaScript`
+*   **[ayushi-ai-chatbot](https://github.com/Ayushireal17/ayushi-ai-chatbot)** - An intelligent, conversational AI assistant designed for real-time customer support interactions.
+    *   *Tech Stack:* `PHP` • `AI Integration` • `MySQL`
+*   **[portfolio](https://github.com/Ayushireal17/portfolio)** - Responsive personal website featuring a custom bento-grid layout, frontend project showcases, and interactive UI/UX highlights. Deployed via GitHub Pages.
+    *   *Tech Stack:* `HTML` • `CSS` • `JavaScript`
+*   **[smartnest](https://github.com/Ayushireal17/smartnest)** - A clean personal finance web application built to easily track transactions, budgets, and savings targets.
+    *   *Tech Stack:* `HTML` • `CSS` • `JavaScript`
+*   **[RED-PROUD](https://github.com/Ayushireal17/RED-PROUD)** - An online blood and donor management platform optimized for both web browsers and mobile ecosystems.
+    *   *Tech Stack:* `SCSS` • `PHP` • `MySQL`
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushireal17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushireal17&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushireal17&theme=tokyonight" alt="GitHub Streak" />
@@ -103,17 +86,7 @@ I'm a passionate developer focused on building scalable full-stack applications 
 
 ---
 
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Ayushireal17">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushireal17&theme=tokyo-night" width="100%" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🎯 Goals for 2026
+## 🎯 Goals
 
 - 🚀 Scale production-ready Web Applications using React 19 & Next.js.
 - 🌟 Active open-source contributions and community building.
