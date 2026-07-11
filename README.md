@@ -63,28 +63,28 @@ I'm a passionate developer focused on building scalable full-stack applications 
 
 <p align="center">
 <a href="https://github.com/Ayushireal17/TalentBridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=TalentBridge&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=TalentBridge&theme=tokyonight" />
 </a>
 <a href="https://github.com/Ayushireal17/admindashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=admindashboard&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=admindashboard&theme=tokyonight" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Ayushireal17/ayushi-ai-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=ayushi-ai-chatbot&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=ayushi-ai-chatbot&theme=tokyonight" />
 </a>
 <a href="https://github.com/Ayushireal17/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=portfolio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=portfolio&theme=tokyonight" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Ayushireal17/smartnest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=smartnest&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=smartnest&theme=tokyonight" />
 </a>
 <a href="https://github.com/Ayushireal17/RED-PROUD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushireal17&repo=RED-PROUD&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Ayushireal17&repo=RED-PROUD&theme=tokyonight" />
 </a>
 </p>
 
@@ -94,7 +94,7 @@ I'm a passionate developer focused on building scalable full-stack applications 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushireal17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushireal17&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushireal17&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
