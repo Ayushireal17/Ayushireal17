@@ -16,7 +16,7 @@ I'm a passionate developer focused on building scalable full-stack applications 
 
 ## 👩‍💻 About Me
 
-- 🔭 **Current Project:** Building **Talent Bridge** – An AI-Powered Recruitment Platform.
+- 🔭 **Current Project:** **Talent Bridge** – An AI-Powered Recruitment Platform.
 - 🌱 **Learning:** Advanced System Design, Computer Vision, and Cloud Deployment.
 - 👯 **Collaboration:** Open to collaborating on Next.js, React, Laravel, and interactive UI/UX projects.
 - 💬 **Ask me about:** React, Tailwind CSS, Laravel, Node.js, Three.js, and Git workflow.
