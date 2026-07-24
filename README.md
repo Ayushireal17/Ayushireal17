@@ -71,7 +71,7 @@ Here are some of the applications I've deployed:
     *   *Tech Stack:* `PHP` • `AI Integration` • `MySQL`
 *   **[portfolio](https://github.com/Ayushireal17/portfolio)** - Responsive personal website featuring a custom bento-grid layout, frontend project showcases, and interactive UI/UX highlights. Deployed via GitHub Pages.
     *   *Tech Stack:* `HTML` • `CSS` • `JavaScript`
-*   **[smartnest](https://github.com/Ayushireal17/easybill)** - 🧾 EasyBill Modern Billing & Invoicing Software.A full-stack, feature-rich billing and invoicing web application built with React 19 + Vite on the frontend and Laravel 11 on the backend.
+*   **[easybill](https://github.com/Ayushireal17/easybill)** - 🧾 EasyBill Modern Billing & Invoicing Software.A full-stack, feature-rich billing and invoicing web application built with React 19 + Vite on the frontend and Laravel 11 on the backend.
     *   *Tech Stack:* `React` • `Tailwind CSS` • `JavaScript`• `Laravel 11`• `PHP`
 *   **[RED-PROUD](https://github.com/Ayushireal17/RED-PROUD)** - An online blood and donor management platform optimized for both web browsers and mobile ecosystems.
     *   *Tech Stack:* `SCSS` • `PHP` • `MySQL`
